@@ -1,0 +1,39 @@
+{
+    "files": {
+        "README.MD": "12bb204d7d311f5ef52b320771074d47aead25576178225377847638243bc12a",
+        "index.js": "6ec382070e1836c5c7f87ee8b55b22c7b97c38fb284fd93ee1d432e1685802d6",
+        "module.json": "46ff093d288db3f13db7e67064e04717f394b5d512b305c3494c223f67e2ed63",
+        "settings_migrator.js": "30744de6fbed557b6829137ef8cd6682de8a2de3323e8cfd3a09346fc68edf83"
+    },
+    "defs": {
+        "C_CAN_LOCKON_TARGET": 3,
+        "C_PLAYER_LOCATION": 5,
+        "C_START_SKILL": 7,
+        "S_ABNORMALITY_BEGIN": [5,"*"],
+        "S_ABNORMALITY_END": 1,
+        "S_ACTION_END": [5,"*"],
+        "S_ACTION_STAGE": [9,"*"],
+        "S_BAN_PARTY_MEMBER": [1,"*"],
+        "S_BOSS_GAGE_INFO": [3,"*"],
+        "S_CREST_APPLY": 2,
+        "S_CREST_INFO": 2,
+        "S_DEAD_LOCATION": [2,"*"],
+        "S_DESPAWN_NPC": 3,
+        "S_DESPAWN_USER": 3,
+        "S_INSTANT_DASH": 3,
+        "S_LEAVE_PARTY": 1,
+        "S_LEAVE_PARTY_MEMBER": [2,"*"],
+        "S_LOAD_TOPO": "event",
+        "S_LOGOUT_PARTY_MEMBER": [1,"*"],
+        "S_NPC_LOCATION": 3,
+        "S_NPC_STATUS": 2,
+        "S_PARTY_MEMBER_CHANGE_HP": 4,
+        "S_PARTY_MEMBER_LIST": [9,"*"],
+        "S_PARTY_MEMBER_STAT_UPDATE": [4,"*"],
+        "S_SPAWN_ME": 3,
+        "S_SPAWN_NPC": [12,"*"],
+        "S_SPAWN_USER": [17,"*"],
+        "S_USER_LOCATION": [6,"*"],
+        "S_USER_LOCATION_IN_ACTION": 2
+    }
+}
